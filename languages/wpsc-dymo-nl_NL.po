@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Dymo\n"
+"POT-Creation-Date: 2013-08-20 11:39+0100\n"
+"PO-Revision-Date: 2013-08-20 11:39+0100\n"
+"Last-Translator: Bart Pluijms <info@geev.nl>\n"
+"Language-Team: Geev vormgeeving <info@geev.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../admin/dymo-settings.php:8
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U heeft onvoldoende rechten om deze pagina te bekijken."
+
+#: ../admin/dymo-settings.php:24
+msgid "WP E-Commerce  - Print DYMO shipping labels"
+msgstr "WP E-Commerce - Print DYMO verzendadres labels"
+
+#: ../admin/dymo-settings.php:26
+msgid "Your settings have been saved."
+msgstr "Instellingen zijn opgeslagen."
+
+#: ../admin/dymo-settings.php:35
+msgid "Label markup"
+msgstr "Label opmaak"
+
+#: ../admin/dymo-settings.php:40
+msgid "Your Label XML:"
+msgstr "Label XML"
+
+#: ../admin/dymo-settings.php:142
+msgid ""
+"Copy Paste your complete label XML output <u>without</u> the first line:"
+msgstr "Knip en plak de complete label XML <u>zonder</u> de eerste regel:"
+
+#: ../admin/dymo-settings.php:147 ../admin/dymo-settings.php:185
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: ../admin/dymo-settings.php:154
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: ../admin/dymo-settings.php:159
+msgid "Company name:"
+msgstr "Bedrijfsnaam:"
+
+#: ../admin/dymo-settings.php:164
+msgid "Your custom company name for the labels."
+msgstr "Bedrijfsnaam voor op de labels."
+
+#: ../admin/dymo-settings.php:165 ../admin/dymo-settings.php:178
+msgid "Note:"
+msgstr "Let op:"
+
+#: ../admin/dymo-settings.php:166
+msgid "Leave blank to not to print a company name."
+msgstr "Laat leeg om geen bedrijfsnaam te printen."
+
+#: ../admin/dymo-settings.php:172
+msgid "Company extra info:"
+msgstr "Extra bedrijfsinformatie:"
+
+#: ../admin/dymo-settings.php:177
+msgid "Some extra info that is displayed on your label."
+msgstr "Extra informatie dat geprint kan worden op labels."
+
+#: ../admin/dymo-settings.php:179
+msgid "Leave blank to not to print the info."
+msgstr "Laat leeg om geen extra info te printen."
+
+#: ../admin/dymo-settings.php:197
+msgid "Debug"
+msgstr "Debug"
+
+#: ../admin/dymo-settings.php:200
+msgid "If you have any problems, please check below data."
+msgstr ""
+"Wanneer er problemen zijn bij het printen van etiketten, controleer dan "
+"eerst onderstaande gegevens."
+
+#: ../admin/dymo-settings.php:203
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+#: ../admin/dymo-settings.php:204
+msgid "Print printers information on"
+msgstr "Print printer informatie via"
+
+#: ../admin/dymo-settings.php:213
+msgid "Buy Pro!"
+msgstr "Koop Pro!"
+
+#: ../admin/dymo-settings.php:215
+msgid "Check out our "
+msgstr "Bekijk onze"
+
+#: ../admin/dymo-settings.php:215
+msgid "to find out more about WP E-Commerce DYMO Print Pro."
+msgstr "voor meer informatie over WP E-Commerce DYMO Print Pro."
+
+#: ../admin/dymo-settings.php:216
+msgid ""
+"For only &euro; 19,00 you will get a lot of features and access to our "
+"support section."
+msgstr ""
+"Voor &euro; 19,00 krijg je veel meer functionaliteiten en toegang tot onze "
+"support sectie."
+
+#: ../admin/dymo-settings.php:217
+msgid "A couple of features:"
+msgstr "Een aantal functionaliteiten:"
+
+#: ../admin/dymo-settings.php:218
+msgid "Print DYMO billing & shipping labels"
+msgstr "Print factuur & verzendadres labels"
+
+#: ../admin/dymo-settings.php:218
+msgid "Customize your own labels"
+msgstr "Maak je eigen labels"
+
+#: ../admin/dymo-settings.php:218
+msgid "Choose your label size"
+msgstr "Kies je eigen labels"
+
+#: ../admin/dymo-settings.php:218
+msgid "Print your company logo on your labels"
+msgstr "Uw eigen logo voor op de labels."
+
+#: ../admin/dymo-settings.php:218
+msgid "Use a DYMO Labelwriter 450 Twin Turbo"
+msgstr "Gebruik een DYMO Labelwriter 450 Twin Turbo"
+
+#: ../admin/dymo-settings.php:222
+msgid "Show Your Love"
+msgstr "Show Your Love"
+
+#: ../admin/dymo-settings.php:224
+#, php-format
+msgid ""
+"This plugin is developed by %s, a Dutch graphic design and webdevelopment "
+"company."
+msgstr ""
+"Deze plugin is ontwikkeld door %s, een Nederlands grafisch ontwerp bureau."
+
+#: ../admin/dymo-settings.php:225
+msgid ""
+"If you are happy with this plugin please show your love by liking us on "
+"Facebook"
+msgstr "Blij met deze plugin? Like ons op Facebook!"
+
+#: ../admin/dymo-settings.php:227
+msgid "Or"
+msgstr "Of"
+
+#: ../admin/dymo-settings.php:229
+msgid "Rate the plugin 5&#9733; on WordPress.org"
+msgstr "Waardeer deze plugin met 5&#9733; op WordPress.org"
+
+#: ../admin/dymo-settings.php:230
+msgid "Blog about it & link to the plugin page"
+msgstr "Schrijf een blog en link naar de plugin pagina"
+
+#: ../inc/wpsc-dymo-funct.php:14
+msgid ""
+"WP E-Commerce is not active. Please activate plugin before using WP E-"
+"Commerce DYMO Print plugin."
+msgstr ""
+"WP E-Commerce is niet actief. Activeer WP E-Commerce voordat je WP E-"
+"Commerce DYMO Print plugin kunt gebruiken."
+
+#: ../inc/wpsc-dymo-funct.php:20 ../inc/wpsc-dymo-funct.php:39
+msgid "DYMO Print"
+msgstr "DYMO Print"
+
+#: ../inc/wpsc-dymo-funct.php:28 ../inc/wpsc-dymo-funct.php:49
+msgid "Print Shipping label"
+msgstr "Print verzendlabel"
+
+#: ../inc/wpsc-dymo-funct.php:76
+msgid "Print DYMO labels"
+msgstr "Print DYMO labels"
+
+#: ../inc/wpsc-dymo-funct.php:82
+msgid "Billing Label"
+msgstr "Factuurlabel"
+
+#: ../inc/wpsc-dymo-funct.php:82
+msgid "Shipping Label"
+msgstr "Verzendlabel"
+
+#: ../inc/wpsc-dymo-funct.php:82
+#, php-format
+msgid "Print DYMO %s"
+msgstr "Print DYMO %s"
+
+#: ../inc/wpsc-dymo-funct.php:91
+msgid "Printing label for order:"
+msgstr "Label voor bestelling:"
+
+#: ../inc/wpsc-dymo-funct.php:176 ../inc/wpsc-dymo-funct.php:177
+msgid "Print Shipping Label"
+msgstr "Print verzendlabel"
+
+#~ msgid ""
+#~ "Please update your WP E-Commerce DYMO Print settings before using this "
+#~ "new release."
+#~ msgstr ""
+#~ "Update a.u.b. eerst de WP E-Commerce DYMO Print instellingen voordat u "
+#~ "deze release kunt gebruiken."
+
+#~ msgid "Shipping label"
+#~ msgstr "Verzendlabel"
+
+#~ msgid "Billing label"
+#~ msgstr "Factuurlabel"
+
+#~ msgid "Advanced"
+#~ msgstr "Geavanceerd"
+
+#~ msgid "License key"
+#~ msgstr "Licentiecode"
+
+#~ msgid ""
+#~ "Shipping is not active. You can't print shipping labels if you don't use "
+#~ "shipping in WP E-Commerce. Use billing labels instead."
+#~ msgstr ""
+#~ "Verzending is niet actief. Je kan geen verzendlabels printen wanneer "
+#~ "verzending in WP E-Commerce niet juist ingesteld is."
+
+#~ msgid "Step 1: Choose label elements"
+#~ msgstr "Stap 1: Kies label elementen"
+
+#~ msgid "Please choose the items you want to print on your shipping label."
+#~ msgstr "Kies a.u.b. de objecten die je wilt printen op verzendlabels."
+
+#~ msgid "Leave blank to not print a company name."
+#~ msgstr "Laat leeg om geen bedrijfsnaam te printen."
+
+#~ msgid "Use %s as your DYMO label object-name"
+#~ msgstr "Gebruik %s als DYMO label object-naam"
+
+#~ msgid "Extra info:"
+#~ msgstr "Extra info:"
+
+#~ msgid ""
+#~ "Some extra info that is displayed on your label, for example a retour zip-"
+#~ "code."
+#~ msgstr "Extra informatie dat geprint kan worden op je labels."
+
+#~ msgid "Leave blank to not print the info."
+#~ msgstr "Laat leeg om geen extra info te printen."
+
+#~ msgid "Picture:"
+#~ msgstr "Afbeelding:"
+
+#~ msgid "Upload Image"
+#~ msgstr "Upload afbeelding"
+
+#~ msgid "Choose a picture to print on your labels."
+#~ msgstr "Kies een afbeelding om op labels te printen."
+
+#~ msgid "Leave blank to not print a picture."
+#~ msgstr "Laat leeg om geen afbeelding te printen."
+
+#~ msgid "Order number:"
+#~ msgstr "Bestelnummer:"
+
+#~ msgid "Print order number on labels"
+#~ msgstr "Print het bestelnummer op labels"
+
+#~ msgid "Customer E-mail address:"
+#~ msgstr "Klant e-mail adres:"
+
+#~ msgid "Print customer e-mail address on labels"
+#~ msgstr "Print e-mail adres van de klant op labels"
+
+#~ msgid "Customer telephone number:"
+#~ msgstr "Klant telefoonnummer:"
+
+#~ msgid "Print customer telephone number on labels"
+#~ msgstr "Print het telefoonnummer van de klant op labels"
+
+#~ msgid "Save shipping label settings"
+#~ msgstr "Bewaar verzendlabel instellingen"
+
+#~ msgid "Step 2: Shipping Label markup"
+#~ msgstr "Stap 2: Verzendlabel layout"
+
+#~ msgid ""
+#~ "Please make sure you've saved settings above before uploading your label "
+#~ "file."
+#~ msgstr ""
+#~ "Bewaar a.u.b. bovenstaande instellingen voor het uploaden van een nieuw "
+#~ "labelbestand."
+
+#~ msgid "Objects:"
+#~ msgstr "Objecten"
+
+#~ msgid "Use the DYMO Labelwriter software to make your own shipping labels."
+#~ msgstr ""
+#~ "Gebruik de DYMO Labelwriter software om je eigen verzendlabels te maken."
+
+#~ msgid ""
+#~ "On the basis of the above settings, your shipping label requires the "
+#~ "following label objects:"
+#~ msgstr ""
+#~ "Op de basis van bovenstaande instellingen moet het label de volgende "
+#~ "verplichte objecten bevatten:"
+
+#~ msgid ""
+#~ "If your label doesn't provide above fields, your labels won't be printed."
+#~ msgstr ""
+#~ "Wanneer het label de bovenstaande objecten niet bevat, wordt het label "
+#~ "niet geprint."
+
+#~ msgid "Import DYMO label file:"
+#~ msgstr "Importeer DYMO Label bestand"
+
+#~ msgid ""
+#~ "Import your DYMO Label file, which you have made with the DYMO "
+#~ "Labelwriter software."
+#~ msgstr ""
+#~ "Importeer het DYMO label bestand dat je hebt gemaakt met de DYMO "
+#~ "Labelwriter software."
+
+#~ msgid "You can also use the import function above."
+#~ msgstr "Je kan ook bovenstaande import functie gebruiken."
+
+#~ msgid "Save shipping label markup"
+#~ msgstr "Bewaar verzendlabel layout"
+
+#~ msgid "Use shipping label elements:"
+#~ msgstr "Gebruik verzendlabel elementen:"
+
+#~ msgid "Do you want to use the same elements as your shipping label?"
+#~ msgstr "Wil je dezelfde elementen gebruiken als van verzendlabels?"
+
+#~ msgid "Use shipping label markup:"
+#~ msgstr "Gebruik vezendlabel layout:"
+
+#~ msgid ""
+#~ "Do you want to use the same markup (label file) as your shipping label?"
+#~ msgstr ""
+#~ "Wil je dezelfde layout (labelbestand) gebruiken als van verzendlabels?"
+
+#~ msgid "Save billing label settings"
+#~ msgstr "Bewaar factuurlabel instellingen"
+
+#~ msgid "Step 2: Choose label elements"
+#~ msgstr "Stap 2: Kies label elementen"
+
+#~ msgid "Please choose the items you want to print on your billing label."
+#~ msgstr "Kies a.u.b. de objecten die je wilt printen op factuurlabels."
+
+#~ msgid "Step %d: Billing label markup"
+#~ msgstr "Stap %d: Factuurlabel layout"
+
+#~ msgid "Use the DYMO Labelwriter software to make your own billing labels."
+#~ msgstr ""
+#~ "Gebruik de DYMO Labelwriter software om je eigen factuurlabels te maken."
+
+#~ msgid ""
+#~ "On the basis of the above settings, your billing label requires the "
+#~ "following label objects:"
+#~ msgstr ""
+#~ "Op de basis van bovenstaande instellingen moet het label de volgende "
+#~ "verplichte objecten bevatten:"
+
+#~ msgid "Save billing label markup"
+#~ msgstr "Bewaar factuurlabel layout"
+
+#~ msgid "Choose Shipping label printer"
+#~ msgstr "Kies verzendlabel printer"
+
+#~ msgid "Choose your printer:"
+#~ msgstr "Kies je printer:"
+
+#~ msgid "Please choose your DYMO printer."
+#~ msgstr "Kies a.u.b. je DYMO printer."
+
+#~ msgid "Available printers:"
+#~ msgstr "Beschikbare printers:"
+
+#~ msgid "Click on printer name or copy paste it"
+#~ msgstr "Klik op een printer naam of knip/plak deze."
+
+#~ msgid "DYMO Twin Turbo roll:"
+#~ msgstr "DYMO Twin Turbo rol:"
+
+#~ msgid "Auto"
+#~ msgstr "Auto"
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgid "Save shipping label printer"
+#~ msgstr "Bewaar verzendlabel printer"
+
+#~ msgid "Choose Billing label printer"
+#~ msgstr "Kies factuurlabel printer"
+
+#~ msgid "Save billing label printer"
+#~ msgstr "Bewaar factuurlabel printer"
+
+#~ msgid "Let's get pro!"
+#~ msgstr "Let's get pro!"
+
+#~ msgid ""
+#~ "You can buy an license key from our website. When using WP E-Commerce "
+#~ "DYMO Print Pro you are able to use more features. Check our website for "
+#~ "more information."
+#~ msgstr ""
+#~ "Je kan een licentiecode kopen via onze website. Wanneer je gebruik maakt "
+#~ "van WP E-Commerce DYMO Print Pro krijg je veel meer functionaliteiten. "
+#~ "Bekijk onze website voor meer informatie."
+
+#~ msgid "License Key"
+#~ msgstr "Licentiecode"
+
+#~ msgid ""
+#~ "Copy Paste your license key to activate WP E-Commerce DYMO Print Pro. "
+#~ "After activation you are able to download the PRO version."
+#~ msgstr ""
+#~ "Knip en plak je licentiecode om WP E-Commerce DYMO Print Pro te "
+#~ "activeren. Na activatie kan je de PRO versie automatisch downloaden."
+
+#~ msgid "Save License Key"
+#~ msgstr "Licentiecode opslaan"
+
+#~ msgid "DYMO feature check"
+#~ msgstr "DYMO javascript controle"
+
+#~ msgid "Need Support?"
+#~ msgstr "Hulp nodig?"
+
+#~ msgid ""
+#~ "If you are having problems with this plugin, please contact us via our "
+#~ msgstr ""
+#~ "Heb je problemen met deze plugin? Neem dan contact met ons op via onze"
+
+#~ msgid ""
+#~ "We will try to support you as soon as possible, mostly within 24 hours."
+#~ msgstr ""
+#~ "We doen onze best om je zo snel mogelijk te helpen met je vragen, meestal "
+#~ "binnen 24 uur."
+
+#~ msgid ""
+#~ "On our website you will also find some basic support information for this "
+#~ "plugin."
+#~ msgstr "Op onze website vind je ook basis help informatie voor deze plugin."
+
+#~ msgid ""
+#~ "Created your own labels for WP E-Commerce DYMO Print PRO? Please share "
+#~ "them with us. We will put them on our website, so we can share them with "
+#~ "other customers."
+#~ msgstr ""
+#~ "Heb jij labels gemaakt voor WP E-Commerce DYMO Print PRO? Deel ze a.u.b. "
+#~ "met ons. We zetten ze dan op onze website zodat anderen ze ook kunnen "
+#~ "downloaden."
+
+#~ msgid "Please visit our"
+#~ msgstr "Bezoek onze"
+
+#~ msgid "for more information."
+#~ msgstr "voor meer informatie."
+
+#~ msgid "Print Billing label"
+#~ msgstr "Print factuurlabel"
+
+#~ msgid "New: Bulk printing"
+#~ msgstr "Nieuw: Print labels voor meerdere orders in 1 keer"
+
+#~ msgid "Change settings for DYMO billing & shipping labels."
+#~ msgstr "Wijzig instellingen voor DYMO factuur & verzendadres labels."
+
+#~ msgid "Custom logo:"
+#~ msgstr "Logo:"
+
+#~ msgid "Your custom logo for the labels."
+#~ msgstr "Logo voor op de labels."
+
+#~ msgid "Leave blank to not to use a custom logo."
+#~ msgstr "Laat leeg om geen logo op de labels te printen."
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Geavanceerde instellingen"
+
+#~ msgid "DYMO Twin Turbo settings"
+#~ msgstr "DYMO Twin Turbo instellingen"
+
+#~ msgid ""
+#~ "If you are having problems with this plugin, please contact us via our "
+#~ "website"
+#~ msgstr ""
+#~ "Heb je problemen met deze plugin? Neem dan contact met ons op via onze "
+#~ "website"
+
+#~ msgid "General"
+#~ msgstr "Algemeen"
+
+#, fuzzy
+#~ msgid "Leave blank to not print a custom logo."
+#~ msgstr "Laat leeg om geen logo op de labels te printen."
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "Een onbekende HTTP fout is opgetreden tijdens de API aanvraag. </p><p><a "
+#~ "href=\"?\" onclick=\"document.location.reload(); return false;\">Probeer "
+#~ "opnieuw</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Een onbekende fout is opgetreden."
